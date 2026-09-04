@@ -15,6 +15,6 @@ tong = tien_xe + khach_san + an
 print("======Kết quả======")
 print("Chuyến đi:", ten)
 print("tiền xe:", tien_xe)
-print("tieenf khách sạn:", khach_san)
-print("tiền awn :", an)
+print("Tiền  khách sạn:", khach_san)
+print("tiền ăn :", an)
 print("TỔNG CHI PHÍ:", tong)
